@@ -1,23 +1,23 @@
 ######################################################################
-# English Translation File
+# German Translation File
 # Make a copy of this file and translate it to your language.
-# Author: Grinch_
+# Author: Vitor Neuber
 ######################################################################
 
 [Scene]
 AnimationTab = "Animation##TABBAR"
 AnimName = "Anim name"
-CustomAnimsOnly = "You can only remove custom animations"
-CustomParticlesOnly = "You can only remove custom particles"
-CutsceneRunning = "Another cutscene is running"
-CutsceneTab = "Cutscene##TABBAR"
-FightingStyle = "Fighting style"
-FightingStyleSet = "Fighting style set"
-IFPName = "IFP name"
-InvisiblePlayer = "Invisible player"
-LoopCheckbox = "Loop"
-LoopCheckboxText = "Keep playing the animation on repeat"
-NoTarget = "No player target found. Aim a ped with a weapon to select it for animation player."
+CustomAnimsOnly = "Sie können nur benutzerdefinierte Animationen entfernen"
+CustomParticlesOnly = "Sie können nur benutzerdefinierte Partikel entfernen"
+CutsceneRunning = "Ein weiterer zwischensequenz läuft"
+CutsceneTab = "Zwischensequenz##TABBAR"
+FightingStyle = "Kampfstil"
+FightingStyleSet = "Kampfstil festlegen"
+IFPName = "Name der IFP-Datei"
+InvisiblePlayer = "Unsichtbarer Spieler"
+LoopCheckbox = "Wiederholungsschleife"
+LoopCheckboxText = "Spielen Sie die Animation wiederholt ab"
+NoTarget = "Keine Spieler ziele gefunden. Richten Sie eine Waffe auf einen Fußgänger, um ihn für den Animationsplayer auszuwählen"
 ParticleName = "Particle name"
 ParticleID = "Particle id"
 ParticleAdded = "Particle added"
